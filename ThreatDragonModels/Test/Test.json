@@ -106,43 +106,6 @@
                   "class": "element-text hasOpenThreats isInScope"
                 }
               }
-            },
-            {
-              "type": "tm.Boundary",
-              "smooth": true,
-              "source": {
-                "x": 30,
-                "y": 20
-              },
-              "target": {
-                "x": 28,
-                "y": 21
-              },
-              "vertices": [
-                {
-                  "x": 1378,
-                  "y": 122
-                },
-                {
-                  "x": 290,
-                  "y": 167
-                },
-                {
-                  "x": 11,
-                  "y": 183
-                },
-                {
-                  "x": 119,
-                  "y": 444
-                },
-                {
-                  "x": 539,
-                  "y": 208
-                }
-              ],
-              "id": "1f190369-1725-4d0b-891d-940c16aa02ea",
-              "z": 4,
-              "attrs": {}
             }
           ]
         },
